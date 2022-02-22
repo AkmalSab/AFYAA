@@ -40,7 +40,7 @@
                     <ul class="navbar-nav ms-auto">
                         <!-- https://preview.colorlib.com/theme/selling/ -->
                         <li class="nav-item">
-                            <a class="nav-link" href="/afyaa">{{ __('Home') }}</a>
+                            <a class="nav-link" href="/">{{ __('Home') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/hayyiba">{{ __('Hayyiba') }}</a>

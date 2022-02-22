@@ -62,9 +62,9 @@
                                     Habbatus sauda, sayur peria dan 6 bahan lain
                                     untuk mengoptimumkan kesihatan anda!
                                 </p>
-                                <button class="btn btn-success">
-                                    Ketahui lanjut
-                                </button>
+                                <a class="btn btn-success" href="/hayyiba">
+                                   Ketahui lanjut
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -86,9 +86,9 @@
                                     Diperkaya dengan ramuan premium sebagai revolusi
                                     untuk dapatkan kulit sihat dan menawan
                                 </p>
-                                <button class="btn btn-success">
+                                <a class="btn btn-success" href="/ryndu">
                                     Ketahui lanjut
-                                </button>
+                                 </a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                         <h3>RM150 - 270</h3>
                         <p class="card-text">✅ 1 kotak mengandungi 15 sachets</p>
                         <p class="card-text">✅ Amal 1 sachets sehari</p>
-                        <a href="#" class="btn btn-primary">Tempah Sekarang</a>
+                        <a href="/hayyiba" class="btn btn-primary">Tempah Sekarang</a>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@
                             ✅ 1 kotak mengandungi 30 tablets kunyah
                         </p>
                         <p class="card-text">✅ Amal 2 tablets sehari</p>
-                        <a href="#" class="btn btn-primary">Tempah Sekarang</a>
+                        <a href="/ryndu" class="btn btn-primary">Tempah Sekarang</a>
                     </div>
                 </div>
             </div>
