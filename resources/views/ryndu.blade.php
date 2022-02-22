@@ -50,7 +50,7 @@
         </div>
 
 
-        <div class="row mt-3 justify-content-center p-4 rounded-3">
+        <div class="row mt-3 justify-content-center text-center p-4 rounded-3">
             <div class="col-sm-12 col-md-4 col-lg-4 mb-3">
                 <h3 class="title">Afyaa Terindah</h3>
                 <p>
