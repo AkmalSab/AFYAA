@@ -7,7 +7,7 @@
         </div>
 
         <div class="row mt-3">
-            <div class="col m-4 p-4">
+            <div class="col">
                 <div class="ratio ratio-16x9">
                     <iframe class="rounded" src="https://www.youtube.com/embed/qh2tx5ItLjU"
                         title="YouTube video player" frameborder="0"
@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="row mt-3 justify-content-center">
-            <div class="col p-4 rounded-3 bg-light bg-gradient shadow-lg">
+            <div class="col p-4 m-4 rounded-3 bg-light bg-gradient shadow-lg">
                 <p class="ads"">
                     " Memperkenalkan AFYAA - rangkaian produk kesihatan untuk
                     memastikan anda mengikuti gaya hidup sihat. Bersama kita memberi kekuatan untuk menjalani kehidupan yang
@@ -36,7 +36,7 @@
         </div>
 
         <div class="row mt-3 justify-content-center text-center">
-            <div class="col p-4 rounded-3">
+            <div class="col rounded-3">
                 <h3 class="subtitle">AWESOME PRODUCTS</h3>
                 <h1 class="title">Featured Products</h1>
                 <div class="mx-auto col-4">
@@ -48,7 +48,7 @@
         </div>
 
         <div class="row mt-3 mb-3 justify-content-center text-center">
-            <div class="col">
+            <div class="col px-4">
                 <div class="card mb-3 rounded-3">
                     <div class="row g-0">
                         <div class="col-md-4">
@@ -73,7 +73,7 @@
         </div>
 
         <div class="row mt-3 mb-3 justify-content-center text-center">
-            <div class="col">
+            <div class="col px-4">
                 <div class="card mb-3 rounded-3">
                     <div class="row g-0">
                         <div class="col-md-4">
@@ -97,7 +97,7 @@
         </div>
 
         <div class="row mt-3 justify-content-center text-center">
-            <div class="col p-4 rounded-3">
+            <div class="col rounded-3">
                 <h3 class="subtitle">POPULAR PRODUCTS</h3>
                 <h1 class="title">Our Products</h1>
                 <div class="mx-auto col-4">
@@ -109,7 +109,7 @@
         </div>
 
         <div class="row mt-3 justify-content-center text-center">
-            <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+            <div class="px-4 col-sm-12 col-md-6 col-lg-4 mb-3">
                 <div class="card h-100">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top" alt="..." />
                     <div class="card-body">
@@ -122,7 +122,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+            <div class="px-4 col-sm-12 col-md-6 col-lg-4 mb-3">
                 <div class="card h-100">
                     <img src="img/AfyaaRynduMain.jpg" class="card-img-top" alt="..." />
                     <div class="card-body">
@@ -140,7 +140,7 @@
 
         <div class="row mt-3 justify-content-center text-center rounded-3">
             <h1 class="title mb-3">Testimoni Pelanggan</h1>
-            <div class="col-12">
+            <div class="col-12 p-4">
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -242,7 +242,7 @@
             </div>
         </div>
 
-        <div class="row mt-3 justify-content-center p-4 rounded-3">
+        <div class="row mt-3 justify-content-center text-center p-4 rounded-3">
             <div class="col-sm-12 col-md-4 col-lg-4 mb-3">
                 <h3 class="title">Afyaa Terindah</h3>
                 <p>

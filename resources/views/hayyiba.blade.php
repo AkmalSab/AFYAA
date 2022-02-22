@@ -7,42 +7,42 @@
         </div>
 
         <div class="row mt-3 justify-content-center text-center">
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 px-4">
                 <div class="card mb-3">
                     <img src="img/AfyaaHayyibaMain.jpg" class="card-img-top rounded-start" alt="AfyaaHayyibaMain" />
                 </div>
